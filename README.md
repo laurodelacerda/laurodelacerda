@@ -14,5 +14,5 @@ Hey, my name is Lauro de Lacerda Caetano, I am a Software Engineer
 - 💬 Ask me about Data Engineering | Python | AWS | Vehicular Networks | Distributed Computing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lauro-de-lacerda-caetano/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love sports in general, and specially football :soccer:, also I am big Flamengo fan :red_circle: :black_circle:
+- ⚡ Fun fact: I love sports in general, and specially football :soccer:, also I am big Flamengo fan :red_circle::black_circle:
 
