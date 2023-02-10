@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 Hey, my name is Lauro de Lacerda Caetano, I am a Software Engineer 
 
 - 🔭 I’m currently working at [Pismo](https://pismo.io/)
-- 🌱 I’m currently learning Machine Learning to get the AWS Certification :books: :page_facing_up:
+- 🌱 I’m currently studying for the AWS Machine Learning Specialty :books: :page_facing_up:
 - 👯 I’m looking to collaborate on Data Engineering | Python | AWS
 <!-- - 🤔 I’m looking for help with ...
 -->
