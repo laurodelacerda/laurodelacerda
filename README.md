@@ -3,7 +3,7 @@
 My name is Lauro de Lacerda Caetano, I live in the beautiful Rio de Janeiro State, Brazil. :sunrise::beach_umbrella: 
 
 I am a Senior Software Engineer currently working as a Data Engineer. 
-I have a masters in Computer Science and recently I became a AWS Data Analytics Specialist.
+I have a masters in Computer Science and recently I became an AWS Data Analytics Specialist.
 
 
 ## About me :bearded_person:
@@ -14,5 +14,4 @@ I have a masters in Computer Science and recently I became a AWS Data Analytics 
 - 💬 Ask me about Data Engineering | Python | AWS | Vehicular Networks | Distributed Computing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lauro-de-lacerda-caetano/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love sports in general (specially football :soccer:), I am also a big Flamengo fan :red_circle::black_circle:
-
+- ⚡ Fun fact: I love sports in general (especially football :soccer:), I am also a big Flamengo fan :red_circle::black_circle:
