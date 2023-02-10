@@ -1,6 +1,7 @@
 ## Hello World! :earth_americas:
  
-My name is Lauro de Lacerda Caetano, I live in the beautiful Rio de Janeiro State, Brazil :sunrise::beach_umbrella: 
+My name is Lauro de Lacerda Caetano, I live in the beautiful Rio de Janeiro State, Brazil. :sunrise::beach_umbrella: 
+
 I am a Senior Software Engineer currently working as a Data Engineer. 
 I have a masters in Computer Science and recently I became a AWS Data Analytics Specialist.
 
