@@ -4,14 +4,13 @@
 
 Here are some ideas to get you started:
 -->
-My name is Lauro de Lacerda Caetano, I am a Software Engineer curretly working as Data Engineer.
+My name is Lauro de Lacerda Caetano, I am a Software Engineer curretly working as a Data Engineer. 
+I have a masters in Computer Science. Recently, I became a AWS Data Analytics Specialist.
 
 - 🔭 I’m currently working at [Pismo](https://pismo.io/)
-- :books: My field of research is Distributed Computing, more focused on Vehicular Communication :signal_strength::car:
 - 🌱 I’m currently studying for the AWS Machine Learning Specialty :books: :page_facing_up:
-- 👯 I’m looking to collaborate on Data Engineering | Python | AWS
-<!-- - 🤔 I’m looking for help with ...
--->
+- 👯 I’m looking to collaborate on Machine Learning | Data Analytics | Python | AWS
+- :books: My field of research is Distributed Computing, more focused on Vehicular Communication :signal_strength::car:
 - 💬 Ask me about Data Engineering | Python | AWS | Vehicular Networks | Distributed Computing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lauro-de-lacerda-caetano/)
 - 😄 Pronouns: he/him
