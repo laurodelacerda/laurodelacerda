@@ -6,6 +6,7 @@ I am a Senior Software Engineer currently working as a Data Engineer.
 I have a masters in Computer Science and recently I became a AWS Data Analytics Specialist.
 
 
+## About me :bearded_person:
 - 🔭 I’m currently working at [Pismo](https://pismo.io/)
 - 🌱 I’m currently studying for the AWS Machine Learning Specialty :books: :page_facing_up:
 - 👯 I’m looking to collaborate on Machine Learning | Data Analytics | Python | AWS
