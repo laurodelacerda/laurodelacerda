@@ -1,10 +1,10 @@
-## Hello World! 
+## Hello World! :earth_americas:
 <!--
 **laurodelacerda/laurodelacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-Hey, my name is Lauro de Lacerda Caetano, I am a Software Engineer 
+My name is Lauro de Lacerda Caetano, I am a Software Engineer curretly working as Data Engineer.
 
 - 🔭 I’m currently working at [Pismo](https://pismo.io/)
 - :books: My field of research is Distributed Computing, more focused on Vehicular Communication :signal_strength::car:
