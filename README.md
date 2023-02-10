@@ -1,11 +1,7 @@
 ## Hello World! :earth_americas:
-<!--
-**laurodelacerda/laurodelacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-My name is Lauro de Lacerda Caetano, I am a Software Engineer curretly working as a Data Engineer. 
-I have a masters in Computer Science. Recently, I became a AWS Data Analytics Specialist.
+ 
+My name is Lauro de Lacerda Caetano, I am a Senior Software Engineer curretly working as a Data Engineer. 
+I have a masters in Computer Science and recently I became a AWS Data Analytics Specialist.
 
 - 🔭 I’m currently working at [Pismo](https://pismo.io/)
 - 🌱 I’m currently studying for the AWS Machine Learning Specialty :books: :page_facing_up:
