@@ -2,7 +2,7 @@
  
 My name is Lauro de Lacerda Caetano, I live in the beautiful Rio de Janeiro State, Brazil. :sunrise::beach_umbrella: 
 
-I am a Senior Software Engineer currently working as a Data Engineer. 
+I am a Software Engineer currently working as a Data Engineer. 
 I have a masters in Computer Science and recently I became an AWS Data Analytics Specialist.
 
 
